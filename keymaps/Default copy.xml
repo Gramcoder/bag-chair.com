@@ -1,0 +1,8 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="Github.Create.Gist">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Kodokux.Get.Gist">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
+  </action>
+</keymap>
